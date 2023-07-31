@@ -1,4 +1,4 @@
-![image](https://github.com/danfradat/EmissionsLifeExpectancy/assets/139126187/30801589-e827-4361-bc26-31bb28cdcd87)# EmissionsLifeExpectancy
+# EmissionsLifeExpectancy
 A look in to the relationships of a country's emissions per capita and life expectancy.
  
 **Objective**
